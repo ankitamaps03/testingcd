@@ -1,6 +1,6 @@
 # Building CI/CD/CT for API Project Proposal
 
-#### Team Members: Ankita Mahapatra, Yaqin Zhou, Yiqian Deng, Yashwanthreddy Beeravolu, Rahul Guin
+#### Team Members: Ankita Mahapatra, Yaqin Zhou, Yiqian Deng, Yashwanth Beeravolu, Rahul Guin
 
 #### Mentors: Ata Turk, Prajna Bhaskar, James Colley, Surya Jayanthi, Panat Taranat, Yan Chen
 
