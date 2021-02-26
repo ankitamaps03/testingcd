@@ -78,7 +78,7 @@ jobs:
     steps:
       - uses: jakejarvis/wait-action@master
         with:
-          time: 30m
+          time: 5m
   cleaningOC:
     needs: wait
     name: Cleaning OpenShift Env
