@@ -1,6 +1,6 @@
 #### **Reason for Automatic CI/CD pipeline**
 
-Manually deploy a pipeline or application on AWS (or any cloud provider) is both difficult and tedious because of server setup, configuration of pipeline, provision integration among all components.
+Manually deploy a pipeline or application on AWS (or any cloud provider) is both difficult and tedious because of server setup, configuration of pipeline, provision integration among all component.
 
 
 
