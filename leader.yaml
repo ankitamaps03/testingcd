@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: leader
-        image: "docker.io/redis:6.0.5"
+        image: "yashwanth1801/testingcd:e1e9337"
         resources:
           requests:
             cpu: 100m
