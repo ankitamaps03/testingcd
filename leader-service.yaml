@@ -9,8 +9,8 @@ metadata:
 spec:
   type: LoadBalancer
   ports:
-  - port: 6379
-    targetPort: 6379
+  - port: 5000
+    targetPort: 5000
   selector:
     app: flask
     role: leader
